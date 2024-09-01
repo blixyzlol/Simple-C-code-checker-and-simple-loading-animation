@@ -1,1 +1,1 @@
-# Simple-C-code-checker-and-simple-loading-animation
+# Simple-C++-code-checker-and-simple-loading-animation
